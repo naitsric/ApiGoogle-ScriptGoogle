@@ -1,5 +1,5 @@
 function testSchemas() {
-  var threads = GmailApp.search('from:"criduq@eltiempo.com"');
+  var threads = GmailApp.search('from:"xxxxxx@xxx.com"');
   //var threads = GmailApp.getInboxThreads(0, 2);
   var label = GmailApp.getUserLabelByName("Verificado");
   
