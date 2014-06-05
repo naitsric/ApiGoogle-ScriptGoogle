@@ -8,6 +8,8 @@ Recupera de un correo Gmail los correos segun un Query, Crea un Spreadsheet lo l
 
 Clases Utilizadas:
 
-GmailApp
-SpreadsheetApp
+GmailApp,
+
+SpreadsheetApp,
+
 DriveApp
